@@ -1,4 +1,4 @@
-_[Hivatalos CV letöltése itt, nemeth.zoltan.cv.pdf (vagy repoban)](./nemeth.zoltan.cv.pdf), Online, bővebb verzió itt olvasható._
+_[Hivatalos CV letöltése itt, nemeth.zoltan.cv.pdf (vagy repoban)](https://github.com/nzwsdev/nzwsdev/raw/cv_2022/nemeth.zoltan.cv.pdf), Online, bővebb verzió itt olvasható._
 
 
 ---
