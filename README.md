@@ -30,7 +30,7 @@ Fullstack Fejlesztő
 
 2014.07. - 2021.11. | Budapest
 - Backend oldali scriptek/folyamatok/szervízek, és admin oldalak fejlesztése (belső, és ügyfél portál).
-- Tapasztalot szereztem *(igen)* nagyméretű adatbázisokkal és kódbázisal/kódbázisokkal, egy komplex rendszerel.
+- Tapasztalot szereztem nagyméretű adatbázisokkal és kódbázisal/kódbázisokkal, egy komplex rendszerel.
 - Elosztott, skálázható rendszerek tervezése és teljes kód implementálása, adatbázis tervezéssel. (RestAPI, GoogleAPI, RabbitRMQ, Redis, PHP service, MySQL).
 - Termék ajánlatok átadása Google hírdetésbe (MerchantCenterContent).
 - eBoltoktól begyűjtött vásárlói vélemények társítása saját termékhez.
@@ -81,7 +81,7 @@ Nagyasszonyunk Katolikus Intézmény | Kalocsa
 - Szívesen ismerkedek, és sajátítom el az új technológiákat / megoldásokkat.
 - Szeretek csapatban és önállóan is fejleszteni / dolgozni.
 - Alapos és minőségi munkát szeretek kiadni a kezemből.
-- Nem ilyedek meg unix like rendszerektől, sőt szeretem *(pl: terminál)*.
+- Nem ijedek meg unix like rendszerektől, sőt szeretem *(pl: terminál)*.
 
 
 ## Szabadidős tevékenységeim
@@ -90,6 +90,7 @@ Nagyasszonyunk Katolikus Intézmény | Kalocsa
 - 🎮 Van egy két favoritom, amivel szívesen játszok (Apple Arcade)
 - 🔧 LEGO® Technic
 - 👨‍💻 Otthoni projektek, fejlesztés, tanulás, okos otthon építés
+- 🎬 TV/Stream sorozatok/filmek
 
 
 <!---
